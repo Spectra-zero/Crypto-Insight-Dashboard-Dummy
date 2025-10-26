@@ -46,7 +46,8 @@ Proyek ini menggambarkan bagaimana seorang analis Web3 menggabungkan data dari b
 *Tampilan utama dashboard yang menampilkan tren harga, volume transaksi, dan aktivitas jaringan.*
 
 ### 🖼️ Screenshot 2 — Token Trend Chart  
-![Token Trend Chart](https://files.oaiusercontent.com/file_0000000074706206be943dab3cbe8707)  
+![Token Trend Chart](IMG_20251026_193306.png
+)  
 *Grafik tren pergerakan token dengan indikator aktivitas on-chain.*
 
 ### 🖼️ Screenshot 3 — Weekly Report Export  
