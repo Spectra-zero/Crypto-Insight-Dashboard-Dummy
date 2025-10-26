@@ -51,7 +51,7 @@ Proyek ini menggambarkan bagaimana seorang analis Web3 menggabungkan data dari b
 *Grafik tren pergerakan token dengan indikator aktivitas on-chain.*
 
 ### 🖼️ Screenshot 3 — Weekly Report Export  
-![Weekly Report Markdown](https://files.oaiusercontent.com/file_00000000226062068edda4a2ef8baddf)  
+![Weekly Report Markdown](IMG_20251026_202040.png)  
 *Contoh laporan mingguan yang dihasilkan dalam format Markdown untuk dokumentasi.*
 
 ---
