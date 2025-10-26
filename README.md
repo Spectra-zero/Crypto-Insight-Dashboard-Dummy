@@ -41,7 +41,8 @@ Proyek ini menggambarkan bagaimana seorang analis Web3 menggabungkan data dari b
 ## 📊 Grafik & Visualisasi
 
 ### 🖼️ Screenshot 1 — Dashboard Overview  
-![Crypto Insight Dashboard Overview](https://files.oaiusercontent.com/file_00000000ef5461f4be2379f262ca518f)  
+![Crypto Insight Dashboard Overview](IMG_20251026_192821.png
+)  
 *Tampilan utama dashboard yang menampilkan tren harga, volume transaksi, dan aktivitas jaringan.*
 
 ### 🖼️ Screenshot 2 — Token Trend Chart  
