@@ -83,7 +83,7 @@ Proyek ini menggambarkan bagaimana seorang analis Web3 menggabungkan data dari b
 ---
 
 ## 📎 File Dummy Pendukung
-- `IMG_20251026_210250.png`
+- `(IMG_20251026_210250.png)`
 - `weekly_report.md`
 - `token_trend_analysis.csv`
 
